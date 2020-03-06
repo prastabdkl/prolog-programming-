@@ -1,0 +1,28 @@
+Create a Class called student with the following details as variables within it.
+1. Name of the student
+2. Age
+3. Year of study
+4. Semester
+5. 5 different subject marks in array
+Write a C++ program to create object for the class to access these and print the Name, age,
+year, semester and grade according to their percentage of marks scored.
+90 % and above – S grade
+80% to 89% -- A grade
+70% to 79% -- B grade
+60% to 69% -- C grade 
+
+Write a C++ program to read information about plant like plant-name, plant-code, plant-type and price. Construct the database with suitable member functions for
+ initialization and destroying the data via constructor and destructor.
+
+Write a C++ program to find the area of circle using class circle which have following details:
+
+a. Accept radius from the user
+b. Calculate the area
+c. Display the result
+
+ Write a C++ program to find the factorial of a number using copy constructor.
+Write a C++ program to calculate the area of triangle, rectangle and circle using constructor overloading. The program should be menu driven.
+
+Q.)Write a C++ program to calculate the value of following series using copy constructor and Inline member function.
+
+S = 12 + 22 + 32 + 42 . . . + n2

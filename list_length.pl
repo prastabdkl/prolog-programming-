@@ -1,0 +1,5 @@
+list_length([],0).
+list_length([_|TAIL],N) :- list_length(TAIL,N1), N is N1+1.
+
+%list_length([a,b,c,d,e,f],L).
+% you can use length also
